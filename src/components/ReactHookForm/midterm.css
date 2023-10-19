@@ -1,0 +1,40 @@
+h2 {
+    color: green;
+    text-decoration: underline;
+  }
+  
+  .form-container {
+    background-color: skyblue;
+    border: 2px dashed black;
+    padding: 20px;
+    margin: 20px;
+  }
+
+  
+  
+  /* Add this CSS to your 'midterm.css' file */
+.label-input-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .label-input-container label {
+    width: 150px; /* Adjust the width as needed */
+  }
+  
+  .label-input-container input {
+    flex: 1;
+    padding: 5px;
+  }
+
+  button{
+    margin: 10px;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+}
+  span{
+    color: red;
+  }
